@@ -1,4 +1,8 @@
-# CAS-SDK
+# holzHHK
+
+holzHHK is a fork of the [CAS-SDK by diddyholz](https://github.com/diddyholz/CAS-SDK). I will downgrade it from version 2.1.7 to version 2.1.2 to make it compatible with the rest of the [hollyhock-2 project](https://github.com/SnailMath/hollyhock-2). My goal is to get compatability between games written for the CAS-SDK and our hollyhock-2 launcher.
+
+## CAS-SDK
 CAS-SDK is an open source SDK to write applications for the Casio Classpad II (fx-CP400). It currently supports the calculators firmware version 02.01.7000.0000.
 
 ## Features
